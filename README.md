@@ -6,7 +6,9 @@ Please tell me what's wrong and help me study programming
 
 # Subject
 
-## c++ languge
+## C language
+
+## C++ language
 
 
 ## python
